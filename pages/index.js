@@ -3,10 +3,16 @@ import Head from 'next/head';
 const Home = () => (
   <div>
     <Head>
-      <title>Next.js on the Jamstack with Netlify!</title>
+      <title>Dale Click - Marketing digital</title>
     </Head>
     <h1>
-      Next.js on the <a href="https://jamstack.org">Jamstack</a>
+      trabajamos en  <a href="https://argentinosenbarcelona.com">Argentinos en Barcelona</a>
+    </h1>
+<h1>
+      Viajamos en <a href="https://Tolkeyenpatagonia.com">tolkeyen</a>
+    </h1>
+<h1>
+      Vivimos el   <a href="https://www.destinosur.com.ar/es/excursiones/d-el-calafate/c-terrestres/12/descubri-el-glaciar-perito-moreno/">Glaciar perito Moreno</a>
     </h1>
 
     <h3>
